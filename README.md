@@ -30,3 +30,4 @@ $ python manage.py runserver
 ```
 
 Access the admin panel at ```127.0.0.1/admin``` 
+# Notes-Taking-app
